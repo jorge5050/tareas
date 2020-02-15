@@ -52,5 +52,26 @@ Ademas de la sintaxis para listas se agrega [_],[x] o [x]
 * [x] introducion
 * [] marco teorico
 * [justificacion]
+<> Edit file
+Ademas de la sintaxis para listas se agrega [_],[x] o [x]
+~~~
+* [x] introducion
+* [] marco teorico
+* [justificacion]
 
+*** Tablas
+Se utiliza el simbolo | para separar los elementos  por columnas: titulo1| titulo2
+luegu--1-- y se agregaron los elemento
+
+titulo1| titulo2
+------|------
+juan|2.2
+
+
+### Enlaces
+Entre a corchetes agragamos el nombre del enlace **[buscar]** y a continuacion entre a parentecia a la url**(https://www.tdea.edu.co/)**
+Mediante el siguiente codigo
+~~~
+[buscar](tttp//https://www.tdea.edu.co/)
+~~~
 
