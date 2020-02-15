@@ -74,4 +74,45 @@ Mediante el siguiente codigo
 ~~~
 [buscar](tttp//https://www.tdea.edu.co/)
 ~~~
+ ### Listas de Tareas
+~~~
+* [x] Introduccion
+* [X] Marco teóico
+* [ ] Justificación
+~~~
+* [x] Introduccion
+* [X] Marco teóico
+* [ ] Justificación
 
+---
+### Enlaces
+~~~
+[Youtube](https://www.youtube.com/feed/subscriptions)
+~~~
+[Youtube](https://www.youtube.com/feed/subscriptions)
+
+
+---
+### Lineas Horizontales
+~~~
+---
+___
+***
+~~~
+---
+___
+***
+
+___
+### Imagenes
+~~~
+![Etiqueta](Imagenes/car.jpg "Ejemplo")
+~~~
+![Etiqueta](Imagenes/moto.jpg "Ejemplo")
+
+***
+### Citas
+~~~
+>esta es una cita
+~~~
+>esta es una cita
